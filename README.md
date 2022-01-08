@@ -15,6 +15,6 @@ A personal voice assistant just like alexa built in python language.
 3. extracting wikipedia content in a summary
 4. asking for time and date
 5. asking for any jokes
-#Note
+# Note
 pyAudio library is not compatible for python 3.7 and above. Either reduce the python version to 3.6 or Do download the wheel package given in the repository then install the package simply by typing:
-*pip install PyAudio-0.2.11-cp39-cp39-win_amd64.whl*
+//*pip install PyAudio-0.2.11-cp39-cp39-win_amd64.whl*//
